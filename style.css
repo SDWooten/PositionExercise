@@ -123,12 +123,29 @@ body {
         z-index: 2;
     }
 
-    
+    /* 1 */
+    #time {
+        z-index: 3;
+    }
+
+    #mind {
+        z-index: 1;
+    }
+
+    #reality {
+        z-index: 4;
+    }
+
+    /* 2 */
+    #soul {
+        z-index: 2;
+    }
 
     h2 {
         position: sticky;
         top: 65px;
     }
+
 
 
 
